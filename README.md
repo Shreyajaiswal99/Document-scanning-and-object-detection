@@ -1,1 +1,1 @@
-# Document-scanning-and-object-detection
+# Document-scanning-and-ocr-detection
